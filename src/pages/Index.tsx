@@ -146,9 +146,7 @@ const Index = () => {
         
         <div className="container mx-auto px-4 text-center relative z-10">
           <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-gradient-to-r from-gaming-cyan-400 via-gaming-blue-400 to-gaming-purple-400 bg-clip-text animate-shimmer text-blue-400">Открой прямо сейчас</h1>
-          <p className="text-xl text-gaming-blue-200 mb-8 max-w-2xl mx-auto">
-            Исследуй галактику редких цифровых артефактов. Открывай кейсы, собирай коллекцию и торгуй с другими игроками.
-          </p>
+          <p className="text-xl text-gaming-blue-200 mb-8 max-w-2xl mx-auto font-semibold">Открывай и выигрывай свой первый NFT - подарок</p>
           
           <div className="flex justify-center space-x-8 mb-12">
             <div className="text-center">
