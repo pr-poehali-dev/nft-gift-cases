@@ -118,9 +118,7 @@ const Index = () => {
               <div className="text-3xl font-bold bg-gradient-to-r from-gaming-cyan-400 to-gaming-blue-400 bg-clip-text text-transparent">
                 NFT Cases
               </div>
-              <Badge variant="outline" className="border-gaming-cyan-500 text-gaming-cyan-400">
-                BETA
-              </Badge>
+              <Badge variant="outline" className="border-gaming-cyan-500 text-gaming-cyan-400">MAFIA</Badge>
             </div>
             
             <div className="flex items-center space-x-6">
